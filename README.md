@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img height="160" src="https://media1.tenor.com/m/ks-oRYhUAcMAAAAd/cyberpunk2077-cd-projekt.gif"  />
+  <img height="160" src="https://media1.tenor.com/m/Roh5meyS8DEAAAAd/cyberpunk2077-cyberpunk.gif"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 <p align="center">That i Use or That i'm Learning</p>
 
 ###
-<img height="200" src="https://c.tenor.com/Roh5meyS8DEAAAAd/tenor.gif"  />
+
 <br clear="both">
 
 <div align="center">

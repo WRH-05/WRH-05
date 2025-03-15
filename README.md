@@ -32,11 +32,11 @@
 
 ###
 
-<img align="left" height="200" src="https://img1.picmix.com/output/pic/normal/5/7/4/2/11892475_50987.gif"  />
+<!--img align="left" height="200" src="https://img1.picmix.com/output/pic/normal/5/7/4/2/11892475_50987.gif"  /-->
 
 ###
 
-<img align="left" height="162" src="https://media1.tenor.com/m/ks-oRYhUAcMAAAAd/cyberpunk2077-cd-projekt.gif"  />
+<img align="left" height="200" src="https://media1.tenor.com/m/ks-oRYhUAcMAAAAd/cyberpunk2077-cd-projekt.gif"  />
 
 ###
 

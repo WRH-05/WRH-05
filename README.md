@@ -43,7 +43,7 @@
 <p align="center">That i Use or That i'm Learning</p>
 
 ###
-<img align="right" height="200" src="https://c.tenor.com/Roh5meyS8DEAAAAd/tenor.gif"  />
+<img height="200" src="https://c.tenor.com/Roh5meyS8DEAAAAd/tenor.gif"  />
 <br clear="both">
 
 <div align="center">

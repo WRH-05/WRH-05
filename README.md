@@ -36,7 +36,7 @@
 
 ###
 
-<img align="left" height="190" src="https://media1.tenor.com/m/ks-oRYhUAcMAAAAd/cyberpunk2077-cd-projekt.gif"  />
+<img align="left" height="160" src="https://media1.tenor.com/m/ks-oRYhUAcMAAAAd/cyberpunk2077-cd-projekt.gif"  />
 
 ###
 

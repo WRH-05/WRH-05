@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/tn_MOQB9pV4AAAAd/tony-tonylife.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/tn_MOQB9pV4AAAAd/tony-tonylife.gif"  />
 </div>
 
 ###
@@ -101,8 +101,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WRH-05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=my%20meaningless%20numbers" height="220" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=WRH-05&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WRH-05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=my%20meaningless%20numbers" height="180" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=WRH-05&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###

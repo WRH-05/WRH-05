@@ -24,11 +24,11 @@
 
 ###
 
-<img align="left" height="200" src="https://img1.picmix.com/output/stamp/normal/2/4/6/1/2601642_4a15d.gif"  />
+<img align="right" height="200" src="https://img1.picmix.com/output/stamp/normal/2/4/6/1/2601642_4a15d.gif"  />
 
 ###
 
-<img align="right" height="200" src="https://img1.picmix.com/output/pic/normal/5/7/4/2/11892475_50987.gif"  />
+<img align="left" height="200" src="https://img1.picmix.com/output/pic/normal/5/7/4/2/11892475_50987.gif"  />
 
 ###
 

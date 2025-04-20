@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">my name's Wassim<br>i'm a 3rd year electronics engineering student at USTHB<br>and trying to expand my knowledge to include the broader electrical engineering, robotics and backend engineering<br>by learning ADS, DSP, backend engineering, data analysis and embedded systems engineering. <br>i'm currently working on an algerian crowdfunding platform and quant finance predictive ai models.<br>besides tech i'm also learning video editing and the violin and a lot of other things...<br>i'm trying to be a polymath blending engineering with art.</p>
+<p align="left">my name's Wassim<br>i'm a 3rd year electronics engineering student at USTHB<br>and trying to expand my knowledge to include the broader electrical engineering, robotics and backend engineering by learning ADS, DSP, backend engineering, data analysis and embedded systems engineering. </p>
+
+<br clear="both">
+
+<p align="center"> i'm currently working on an algerian crowdfunding platform and quant finance predictive ai models.<br>besides tech i'm also learning video editing and the violin and a lot of other things...<br>i'm trying to be a polymath blending engineering with art.</p>
 
 ###
 

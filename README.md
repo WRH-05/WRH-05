@@ -17,7 +17,7 @@
 
 <br clear="both">
 
-<p align="center"> i'm currently working on an algerian crowdfunding platform and quant finance predictive ai models.<br>besides tech i'm also learning video editing and the violin and a lot of other things...<br>i'm trying to be a polymath blending engineering with art.</p>
+<p align="center"> i'm currently working on an algerian crowdfunding platform and quant finance predictive ai models.<br>besides tech i also enjoy learning extracurricular subjects like the violin for example and a lot of other things...<br>i'm trying to be a polymath blending engineering with art.</p>
 
 ###
 

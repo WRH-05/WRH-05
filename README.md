@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h2 align="center">wrh-05</h2>
+<h2 align="center">WRH-05</h2>
 
 ###
 

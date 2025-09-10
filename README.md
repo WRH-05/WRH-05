@@ -13,7 +13,7 @@
 <img align="right" height="200" src="https://media1.tenor.com/m/-UjjaU6GTaQAAAAd/walking-by-adam-smasher.gif"  />
 
 ###
-<p align="leftt"> i'm a 3rd year electronics engineering student at USTHB, and i'm trying to expand my knowledge to include the broader electrical engineering, robotics and backend engineering by learning ADS, DSP, backend engineering, data analysis and embedded systems engineering. </p>
+<p align="leftt"> i'm a 4th year electronics engineering student at USTHB, and i'm trying to expand my knowledge to include the broader electrical engineering, robotics and backend engineering by learning ADS, DSP, backend engineering, data analysis and embedded systems engineering. </p>
 
 <br clear="both">
 
